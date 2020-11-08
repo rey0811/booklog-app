@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "booklog-app",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
